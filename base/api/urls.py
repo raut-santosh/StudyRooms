@@ -7,4 +7,3 @@ urlpatterns = [
     path('rooms/<str:pk>/', views.getRoom),
 ]
 
-# 6 mins
